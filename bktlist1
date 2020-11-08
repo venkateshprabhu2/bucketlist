@@ -38,7 +38,7 @@
       </section>
       <section id="signin" class="signin">
         <div class="inner">
-          <h1>Education</h1>
+          <h1>Sign In</h1>
           <div class="textbox">
            <input type="text" placeholder="Username" name="" value="Username" required>
 	         </div>
@@ -50,7 +50,7 @@
       </section>
       <section id="signup" class="signup">
         <div class="inner">
-           <h1>Sign up</h1>
+           <h1>Sign Up</h1>
         <div class="textbox">
           <input type="email" placeholder="email-id" name="" value="email" required>
       <input type="text" placeholder="Username" name="" value="Username" required>
@@ -58,7 +58,7 @@
 	  <div class="textbox">
       <input type="password" placeholder="Password" name="" value="" required>
 	  </div>
-      <input class="btn" type="button" name="" value="Sign in">
+      <input class="btn" type="button" name="" value="Sign up">
       </div>
       </section>
       
