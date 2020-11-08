@@ -103,6 +103,7 @@ section {
 .signup .inner div img {
   width: 100px;
   height: auto;
+  font-size:10px;
 }
 .signup,
 .contact {
@@ -141,4 +142,3 @@ section {
     border-bottom: 2px solid #d3d3d3;
   }
 }
-
